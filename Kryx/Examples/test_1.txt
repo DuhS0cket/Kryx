@@ -1,0 +1,3 @@
+let x = 45 {83};
+func y();
+return x
